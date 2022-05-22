@@ -1,1 +1,1 @@
-const Contact = () => {};
+function Contact() {}
